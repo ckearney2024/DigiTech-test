@@ -1,4 +1,4 @@
-echo "# Welcome to DigiTech" >> README.md
+echo "# Welcome to DigiTech - colin kearney - sba23182" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
